@@ -25,7 +25,7 @@ SECRET_KEY = 'mqcz6dhnw7j2#=kni48=+ka#-m2@bl)l6%mk_#^g-^#25)1tfj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["fxfrontend.pythonanywhere.com",]
+ALLOWED_HOSTS = ["fxfrontend.pythonanywhere.com", '127.0.0.1']
 
 
 # Application definition
